@@ -1,0 +1,14 @@
+{
+	"name": "myhome",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"gitbook serve": "gitbook serve",
+		"gitbook build": "gitbook build",
+		"gitbook help": "gitbook help",
+		"publish_wiki": "sh publish_wiki.sh"
+	},
+	"dependencies": {
+		"gitbook-cli": "^2.3.2"
+	}
+}
