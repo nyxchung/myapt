@@ -11,7 +11,7 @@
 		* 18년 12월경 청약 방식의 일부 변경이 있을 예정이라는 소문이...
 * 오늘 우리는 일단 쉽고 기본적인 개념만...
   
-<img src="http://upload2.inven.co.kr/upload/2015/08/21/bbs/i11427826731.jpg" width="300">
+<img src="/assets/images/00.jpg" width="300">
 
 ## 사전 질문
 1. 네네네

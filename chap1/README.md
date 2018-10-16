@@ -23,10 +23,13 @@
 1. 청약 통장 가입
 2. 지역 및 분양 종류, 면적 결정 및 계획
 3. 분양 정보 확인 
-	* [분양정보](../assets/files/info.eml)
-	* [모집공고](../assets/files/sample.pdf)
-	* https://www.apt2you.com/
+	* 분양정보(하단 이미지)
+	* [모집공고](https://oss.navercorp.com/ChungDaeYoung/myapt/files/80150/sample.pdf)
+	* 국민 은행 외 청약신청 https://www.apt2you.com/
+	* 국민은행 (자사사이트) https://oland.kbstar.com/quics?page=ohsubs&QSL=F#loading
 4. 청약 신청 (apt4you)
 5. 당첨 및 계약 (계약금 10% 납입)
 6. 아파트 건설 기간 중(2-3년) 중도금 납입 혹은 중도금대출 (집단대출 40~60%)
 7. 잔금 납입 및 입주
+
+<img src="/assets/images/24.png">
