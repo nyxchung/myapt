@@ -12,4 +12,3 @@
 * [계산기 두드려보기](chap2/README.md)
 * [다시 질문으로](qna.md)
 * [마무리](end.md)
-* [fin](fin.md)
