@@ -10,6 +10,8 @@
 * DTI (총부채 상환비율), DSR(총체적상환능력비율)
 	* https://youtu.be/uctJUCVpYko
 
+* 조정대상지역 별 대출
+	* <img src="/assets/images/29.png">
 
 * 5억이라면
 	* 각 항목의 비율은 계약마다 조금씩 다름
